@@ -1,0 +1,6 @@
+5
+10,1,cableTV,300
+15,2,electricity,100
+30,3,gas,122
+17,4,telecommunication,10
+40,1,water,111
